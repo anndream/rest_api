@@ -6,3 +6,5 @@ To start your new Phoenix application:
 2. Start Phoenix endpoint with `mix phoenix.server`
 
 Now you can visit `localhost:4000` from your browser.
+
+https://renatomoya.github.io/2015/05/09/Building-a-versioned-REST-API-with-Phoenix-Framework.html
